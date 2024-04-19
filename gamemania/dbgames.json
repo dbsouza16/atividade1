@@ -1,25 +1,25 @@
 {
-    "produtos": [
-        {
-            "id": "1",
-            "produto": "XBOX",
-            "descricao": "Console Xbox",
-            "foto": "xbox.jpg",
-            "preco": 2500
-        },
-        {
-            "id": "2",
-            "produto": "PLAYSTATION",
-            "descricao": "Controle Playstation",
-            "foto": "playstation.jpg",
-            "preco": 600
-        },
-        {
-            "id": "3",
-            "produto": "NINTENDO",
-            "descricao": "Console Nintendo",
-            "foto": "nintendo.jpg",
-            "preco": 1300
-        }
-    ]
+  "produtos": [
+    {
+      "id": "1",
+      "produto": "XBOX",
+      "descricao": "Console Xbox",
+      "foto": "xbox.jpg",
+      "preco": 2500
+    },
+    {
+      "id": "2",
+      "produto": "PLAYSTATION",
+      "descricao": "Controle Playstation",
+      "foto": "playstation.jpg",
+      "preco": 600
+    },
+    {
+      "id": "3",
+      "produto": "NINTENDO",
+      "descricao": "Console Nintendo",
+      "foto": "nintendo.jpg",
+      "preco": 1300
+    }
+  ]
 }
