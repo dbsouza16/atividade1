@@ -1,64 +1,64 @@
 main {
-    min-height: 550px;
+  min-height: 550px;
 }
 
 #section-banner {
-    min-height: 350px;
+  min-height: 350px;
 }
 
 #section-banner img {
-    height: 550px;
+  height: 550px;
 }
 
-h2 { 
-    text-align: center;
-    font-size: 30px;
-    margin-top: 5px;
+h2 {
+  text-align: center;
+  font-size: 30px;
+  margin-top: 5px;
 }
 
 .example-card {
-    max-width: 400px;
-  }
-  
-  .example-header-image {
-    background-image: url('https://material.angular.io/assets/img/examples/shiba1.jpg');
-    background-size: auto;
-  }
-  
-  mat-grid-list {
-    margin: 10px 0px;
-  }
-  
-  mat-grid-tile {
-    padding: 2px;
-    border-radius: 30px;    
-  }
-
-  mat-card-header{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    color: goldenrod;
+  max-width: 400px;
 }
 
-mat-card-actions{
-    display: flex;
-    justify-content: space-around;
-  }  
+.example-header-image {
+  background-image: url('https://material.angular.io/assets/img/examples/shiba1.jpg');
+  background-size: auto;
+}
 
-  mat-card-content p{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    color: darkblue;
-  }
+mat-grid-list {
+  margin: 10px 0px;
+}
 
-  mat-card-actions p{
-    color: blue;
-    font-size: 30px;
-  }
+mat-grid-tile {
+  padding: 2px;
+  border-radius: 30px;
+}
 
-  mat-card img{
-    height: 350px;
-    width: 350px;
-  }
+mat-card-header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: goldenrod;
+}
+
+mat-card-actions {
+  display: flex;
+  justify-content: space-around;
+}
+
+mat-card-content p {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: darkblue;
+}
+
+mat-card-actions p {
+  color: blue;
+  font-size: 30px;
+}
+
+mat-card img {
+  height: 350px;
+  width: 350px;
+}
