@@ -20,6 +20,13 @@
       "descricao": "Console Nintendo",
       "foto": "nintendo.jpg",
       "preco": 1300
+    },
+    {
+      "id": "Nftzbnq",
+      "produto": "FIFA",
+      "descricao": "FIFA 2024",
+      "foto": "fifa.jpg",
+      "preco": 270
     }
   ]
 }
